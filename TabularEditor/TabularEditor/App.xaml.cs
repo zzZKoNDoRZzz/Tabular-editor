@@ -1,13 +1,15 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Configuration;
-using System.Data;
-using System.Linq;
-using System.Threading.Tasks;
-using System.Windows;
+﻿// --------------------------------------------------------------------------------------------------------------------
+// <copyright file="App.xaml.cs" company="">
+// </copyright>
+// <summary>
+//   Логика взаимодействия для App.xaml
+// </summary>
+// --------------------------------------------------------------------------------------------------------------------
 
 namespace TabularEditor
 {
+    using System.Windows;
+
     /// <summary>
     /// Логика взаимодействия для App.xaml
     /// </summary>
