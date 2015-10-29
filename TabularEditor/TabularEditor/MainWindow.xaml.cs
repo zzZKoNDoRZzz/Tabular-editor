@@ -23,6 +23,6 @@ namespace TabularEditor
         public MainWindow()
         {
             InitializeComponent();
-        }
+        }   
     }
 }
