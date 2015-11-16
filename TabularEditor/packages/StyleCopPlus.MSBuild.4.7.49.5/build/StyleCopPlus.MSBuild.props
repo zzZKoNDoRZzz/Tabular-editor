@@ -1,7 +1,1 @@
-<Project xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
-	<ItemGroup>
-		<StyleCopAdditionalAddinPaths Include="$(MSBuildThisFileDirectory)..\tools\">
-			<Visible>false</Visible>
-		</StyleCopAdditionalAddinPaths>
-	</ItemGroup>
-</Project>
+<StyleCopSettings Version="105" />

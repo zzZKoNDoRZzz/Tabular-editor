@@ -1,15 +1,4 @@
-﻿// --------------------------------------------------------------------------------------------------------------------
-// <copyright file="AssemblyInfo.cs" company="">
-//
-// </copyright>
-// <summary>
-//   AssemblyInfo.cs
-// </summary>
-// --------------------------------------------------------------------------------------------------------------------
-
-using System.Reflection;
-using System.Resources;
-using System.Runtime.CompilerServices;
+﻿using System.Reflection;
 using System.Runtime.InteropServices;
 using System.Windows;
 
@@ -37,7 +26,8 @@ using System.Windows;
 // атрибута NeutralResourceLanguage ниже.  Обновите "en-US" в
 // строка внизу для обеспечения соответствия настройки UICulture в файле проекта.
 
-// [assembly: NeutralResourcesLanguage("en-US", UltimateResourceFallbackLocation.Satellite)]
+//// [assembly: NeutralResourcesLanguage("en-US", UltimateResourceFallbackLocation.Satellite)]
+
 [assembly: ThemeInfo(
     ResourceDictionaryLocation.None, // где расположены словари ресурсов по конкретным тематикам
     // (используется, если ресурс не найден на странице
