@@ -1,7 +1,7 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 2012
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TabularEditor", "TabularEditor\TabularEditor.csproj", "{403A6975-FC8F-400B-804A-81DAC450D899}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TabularEditor", "TabularEditor\TabularEditor.csproj", "{034C96AC-A0DF-47A7-A502-75625B191BA7}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -9,10 +9,10 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{403A6975-FC8F-400B-804A-81DAC450D899}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{403A6975-FC8F-400B-804A-81DAC450D899}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{403A6975-FC8F-400B-804A-81DAC450D899}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{403A6975-FC8F-400B-804A-81DAC450D899}.Release|Any CPU.Build.0 = Release|Any CPU
+		{034C96AC-A0DF-47A7-A502-75625B191BA7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{034C96AC-A0DF-47A7-A502-75625B191BA7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{034C96AC-A0DF-47A7-A502-75625B191BA7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{034C96AC-A0DF-47A7-A502-75625B191BA7}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

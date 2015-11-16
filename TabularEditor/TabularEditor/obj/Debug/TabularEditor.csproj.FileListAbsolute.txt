@@ -1,19 +1,4 @@
-D:\KPI\TabularEditor\TabularEditor\bin\Debug\TabularEditor.exe.config
-D:\KPI\TabularEditor\TabularEditor\bin\Debug\TabularEditor.exe
-D:\KPI\TabularEditor\TabularEditor\bin\Debug\TabularEditor.pdb
-D:\KPI\TabularEditor\TabularEditor\obj\Debug\TabularEditor.csprojResolveAssemblyReference.cache
-D:\KPI\TabularEditor\TabularEditor\obj\Debug\MainWindow.baml
-D:\KPI\TabularEditor\TabularEditor\obj\Debug\MainWindow.g.cs
-D:\KPI\TabularEditor\TabularEditor\obj\Debug\App.g.cs
-D:\KPI\TabularEditor\TabularEditor\obj\Debug\TabularEditor_MarkupCompile.cache
-D:\KPI\TabularEditor\TabularEditor\obj\Debug\TabularEditor.g.resources
-D:\KPI\TabularEditor\TabularEditor\obj\Debug\TabularEditor.Properties.Resources.resources
-D:\KPI\TabularEditor\TabularEditor\obj\Debug\TabularEditor.csproj.GenerateResource.Cache
-D:\KPI\TabularEditor\TabularEditor\obj\Debug\TabularEditor.exe
-D:\KPI\TabularEditor\TabularEditor\obj\Debug\TabularEditor.pdb
 D:\KPI\5семестр\STP\Lab\Tabular-editor\TabularEditor\TabularEditor\bin\Debug\TabularEditor.exe.config
-D:\KPI\5семестр\STP\Lab\Tabular-editor\TabularEditor\TabularEditor\obj\Debug\TabularEditor.exe
-D:\KPI\5семестр\STP\Lab\Tabular-editor\TabularEditor\TabularEditor\obj\Debug\TabularEditor.pdb
 D:\KPI\5семестр\STP\Lab\Tabular-editor\TabularEditor\TabularEditor\bin\Debug\TabularEditor.exe
 D:\KPI\5семестр\STP\Lab\Tabular-editor\TabularEditor\TabularEditor\bin\Debug\TabularEditor.pdb
 D:\KPI\5семестр\STP\Lab\Tabular-editor\TabularEditor\TabularEditor\obj\Debug\TabularEditor.csprojResolveAssemblyReference.cache
@@ -24,3 +9,5 @@ D:\KPI\5семестр\STP\Lab\Tabular-editor\TabularEditor\TabularEditor\obj\De
 D:\KPI\5семестр\STP\Lab\Tabular-editor\TabularEditor\TabularEditor\obj\Debug\TabularEditor.g.resources
 D:\KPI\5семестр\STP\Lab\Tabular-editor\TabularEditor\TabularEditor\obj\Debug\TabularEditor.Properties.Resources.resources
 D:\KPI\5семестр\STP\Lab\Tabular-editor\TabularEditor\TabularEditor\obj\Debug\TabularEditor.csproj.GenerateResource.Cache
+D:\KPI\5семестр\STP\Lab\Tabular-editor\TabularEditor\TabularEditor\obj\Debug\TabularEditor.exe
+D:\KPI\5семестр\STP\Lab\Tabular-editor\TabularEditor\TabularEditor\obj\Debug\TabularEditor.pdb
