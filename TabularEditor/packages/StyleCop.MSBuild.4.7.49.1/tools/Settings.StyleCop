@@ -1,4 +1,4 @@
-<StyleCopSettings Version="4.3">
+<StyleCopSettings Version="105">
   <GlobalSettings>
     <CollectionProperty Name="DeprecatedWords">
       <Value>preprocessor,pre-processor</Value>
@@ -33,6 +33,16 @@
           <Value>ui</Value>
         </CollectionProperty>
       </AnalyzerSettings>
+    </Analyzer>
+    <Analyzer AnalyzerId="StyleCop.CSharp.DocumentationRules">
+      <Rules>
+        <Rule Name="FileMustHaveHeader">
+          <RuleSettings>
+            <BooleanProperty Name="Enabled">False</BooleanProperty>
+          </RuleSettings>
+        </Rule>
+      </Rules>
+      <AnalyzerSettings />
     </Analyzer>
   </Analyzers>
 </StyleCopSettings>
