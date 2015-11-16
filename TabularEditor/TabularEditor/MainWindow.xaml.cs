@@ -1,7 +1,6 @@
-﻿using System.Windows;
-
-namespace TabularEditor
+﻿namespace TabularEditor
 {
+    using System.Windows;
     /// <summary>
     /// Логика взаимодействия для MainWindow.xaml
     /// </summary>
