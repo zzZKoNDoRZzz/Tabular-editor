@@ -9,6 +9,7 @@
     {
         public MainWindow()
         {
+            this.InitializeComponent();
         }
     }
 }
