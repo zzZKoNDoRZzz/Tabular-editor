@@ -11,3 +11,4 @@ D:\KPI\5семестр\STP\Lab\Tabular-editor\TabularEditor\TabularEditor\obj\De
 D:\KPI\5семестр\STP\Lab\Tabular-editor\TabularEditor\TabularEditor\obj\Debug\TabularEditor.csproj.GenerateResource.Cache
 D:\KPI\5семестр\STP\Lab\Tabular-editor\TabularEditor\TabularEditor\obj\Debug\TabularEditor.exe
 D:\KPI\5семестр\STP\Lab\Tabular-editor\TabularEditor\TabularEditor\obj\Debug\TabularEditor.pdb
+D:\KPI\5семестр\STP\Lab\Tabular-editor\TabularEditor\TabularEditor\bin\Debug\TabularEditor.exe.CodeAnalysisLog.xml
