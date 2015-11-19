@@ -1,4 +1,8 @@
-﻿namespace TabularEditor
+﻿using System;
+
+[assembly: CLSCompliant(true)]
+
+namespace TabularEditor
 {
     using System.Windows;
 
